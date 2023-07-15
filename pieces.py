@@ -13,6 +13,9 @@ class piece():
 		
 	def get_colour(self):
 		return self.colour
+
+	def get_piece(self):
+		return self.image
 	
 	def set_coordinates(self, x, y):
 		self.x = x

@@ -38,3 +38,7 @@ def invalid_move(MOVING_PIECE, PIECES_ARR, START_INDEX):
     PIECES_ARR[START_INDEX] = MOVING_PIECE
     MOVING_PIECE.move_piece(START_INDEX)
 
+    
+    
+
+
