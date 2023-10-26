@@ -10,7 +10,6 @@ class piece():
 		self.clicked = False
 		self.colour = colour
 		
-		
 	def get_colour(self):
 		return self.colour
 
